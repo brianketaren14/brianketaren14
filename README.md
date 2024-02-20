@@ -1,7 +1,6 @@
 <h1 align="">Hi 👋, I'm Brian Maxwell Ketaren</h1>
 <p align="">A Computer Science student at Universitas Sumatera Utara who is interested in data science and ready to learn. I also have experience using data science tools like: SQL, Python, Power BI, Google Data Studio, Pandas, Matplotlib, Seaborn and Sklearn.</h3>
 
-- 🔭 I’m currently learning at MyEduSolve
 - 🌱 I’m currently learning **Data Science (SQL, Python, Numpy, Pandas, Matplotlib, Seaborn, Data analytics, and Machine Learning)**
 - 📫 How to reach me <a href="https://www.linkedin.com/in/brian-maxwell-ketaren/" target="_blank" rel="noreferrer">LinkedIn Brian Maxwell Ketaren</a>
 - 😄 Pronouns: He/Him
