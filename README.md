@@ -1,4 +1,13 @@
 <h1 align="">Hi 👋, I'm Brian Maxwell Ketaren</h1>
+
+<div style="displayflex">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=brianketaren14&show_icons=true&theme=transparent"/>
+
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianketaren14&theme=transparent"/>
+</div>
+
+
+
 <p align="">A Computer Science student at Universitas Sumatera Utara who is interested in data science and ready to learn. I also have experience using data science tools like: SQL, Python, Power BI, Google Data Studio, Pandas, Matplotlib, Seaborn and Sklearn.</h3>
 
 - 🌱 I’m currently learning **Data Science (SQL, Python, Numpy, Pandas, Matplotlib, Seaborn, Data analytics, and Machine Learning)**
