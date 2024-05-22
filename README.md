@@ -1,11 +1,5 @@
 <h1 align="">Hi 👋, I'm Brian Maxwell Ketaren</h1>
 
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brianketaren14&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  
-
-
-
-
 <p align="">A Computer Science student at Universitas Sumatera Utara who is interested in data science and ready to learn. I also have experience using data science tools like: SQL, Python, Power BI, Google Data Studio, Pandas, Matplotlib, Seaborn and Sklearn.</h3>
 
 - 🌱 I’m currently learning **Data Science (SQL, Python, Numpy, Pandas, Matplotlib, Seaborn, Data analytics, and Machine Learning)**
@@ -47,5 +41,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a>
 </p>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brianketaren14&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
