@@ -3,7 +3,6 @@
 <div style="display:flex; flex-direction:column">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianketaren14&theme=radical"/>
   
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=brianketaren14&show_icons=true&theme=radical"/>
 
 </div>
 
