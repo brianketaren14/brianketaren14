@@ -1,10 +1,8 @@
 <h1 align="">Hi 👋, I'm Brian Maxwell Ketaren</h1>
 
-<div style="display:flex; flex-direction:column">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianketaren14&theme=radical"/>
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brianketaren14&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   
 
-</div>
 
 
 
