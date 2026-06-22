@@ -1,8 +1,8 @@
 <h1 align="">Hi 👋, I'm Brian Maxwell Ketaren</h1>
 
-<p align="">A Computer Science student at Universitas Sumatera Utara who is interested in data science and ready to learn. I also have experience using data science tools like: SQL, Python, Power BI, Google Data Studio, Pandas, Matplotlib, Seaborn and Sklearn.</h3>
+<p align="">A fresh graduate in Computer Science from Universitas Sumatera Utara with an interest in data science and a strong willingness to learn. I have experience using data science tools such as SQL, Python, Power BI, Google Data Studio, Pandas, Matplotlib, Seaborn, machine learning, deep learning, generative ai. During my studies, I frequently worked on both individual and group assignments, which helped me develop the ability to work independently as well as collaboratively in a team.</p>
 
-- 🌱 I’m currently learning **Data Science (SQL, Python, Numpy, Pandas, Matplotlib, Seaborn, Data analytics, and Machine Learning)**
+- 🌱 I’m currently learning **Data Science (SQL, Python, Numpy, Pandas, Matplotlib, Seaborn, Data analytics, Stats & Probability, Machine Learning, Deep Learning and Generative AI)**
 - 📫 How to reach me <a href="https://www.linkedin.com/in/brian-maxwell-ketaren/" target="_blank" rel="noreferrer">LinkedIn Brian Maxwell Ketaren</a>
 - 😄 Pronouns: He/Him
 
@@ -40,6 +40,17 @@
   <a href="#" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/080d737d-bd10-49fd-ab8a-5af763bf05b1" alt="Tensorflow" width="40" height="40"/> 
+  </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/960px-Keras_logo.svg.png?_=20200317115153" alt="Tensorflow" width="40" height="40"/> 
+  </a>  
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/c7103f67-576c-4e96-8b18-dd866f469be8" alt="LangChain" width="40" height="40"/> 
+  </a>
+
+  
 </p>
 
 
